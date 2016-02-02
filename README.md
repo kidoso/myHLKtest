@@ -1,2 +1,0 @@
-# myHLKtest
-TestDescription
